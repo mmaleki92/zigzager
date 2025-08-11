@@ -1,5 +1,7 @@
 # Teaching python to kids with pygame
 
+![alt text](image.png)
+
 # TODO
 
 - fix flat walls
